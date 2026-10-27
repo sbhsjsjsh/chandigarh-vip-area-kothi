@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     title: 'Chandigarh VIP Area Mein Kothi | Luxury Properties',
     description: 'Chandigarh ke VIP area mein kothi ke options explore karein. Prime location, luxury residential properties aur premium kothi ke liye details dekhein.',
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
